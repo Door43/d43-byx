@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byx:home|Door43 (byx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byx|d43-byx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byx/archive/master.zip|d43-byx.zip]]
+
+**Recent Changes**
+{{changes>ns = byx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byx|Ethnologue data]]
+
